@@ -1,0 +1,20 @@
+.card{
+    width:500px;
+    height:680px;
+    padding:20px;
+    margin-left:420px;
+    margin-top:30px;
+    border:2px solid rgb(119, 114, 114);
+    background-color: transparent;
+}
+.top{
+    height:60px;
+    width:100%;
+    padding:50x;
+    background-color:rgb(192, 160, 250);
+}
+
+body{
+    background-size:cover;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpBbEQmLfrYTWbYRD5GChT4_Tu4orRHM2GeP8_y_MGxcsUFUt&s");
+}
